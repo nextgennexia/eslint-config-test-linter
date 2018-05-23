@@ -1,0 +1,22 @@
+{
+  "name": "abak-press-linter",
+  "version": "1.0.0",
+  "description": "ESLinter для проектов AbakPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextgennexia/test-linter.git"
+  },
+  "author": "Gorshkov Ivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextgennexia/test-linter/issues"
+  },
+  "homepage": "https://github.com/nextgennexia/test-linter#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0"
+  }
+}
